@@ -24,183 +24,203 @@
   "images": [
     {
       "id": "img_01",
-      "filename": "admin_empty_verification.png",
-      "destination_path": "public/illustrations/admin_empty_verification.png",
+      "filename": "825292026_1073925435242319_5881788314598221970_n.webp.jpg",
+      "destination_path": "public/illustrations/825292026_1073925435242319_5881788314598221970_n.webp.jpg",
       "used_on_screen": "A-03 Verification Queue empty",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: neutral professional document-review queue with no pending applicants; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: neutral professional document-review queue with no pending applicants; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     },
     {
       "id": "img_02",
-      "filename": "admin_empty_assessments.png",
-      "destination_path": "public/illustrations/admin_empty_assessments.png",
+      "filename": "825292219_1349972547214201_8213328977955390201_n.webp.jpg",
+      "destination_path": "public/illustrations/825292219_1349972547214201_8213328977955390201_n.webp.jpg",
       "used_on_screen": "A-05 Assessments empty",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: assessment clipboard and score gauge with no candidates; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: assessment clipboard and score gauge with no candidates; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     },
     {
       "id": "img_03",
-      "filename": "admin_empty_bookings.png",
-      "destination_path": "public/illustrations/admin_empty_bookings.png",
+      "filename": "825292255_1589317842878878_3648584771462635815_n.webp.jpg",
+      "destination_path": "public/illustrations/825292255_1589317842878878_3648584771462635815_n.webp.jpg",
       "used_on_screen": "A-06 All Bookings empty",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: empty operations table motif with calendar and booking rows absent; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: empty operations table motif with calendar and booking rows absent; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     },
     {
       "id": "img_04",
-      "filename": "admin_empty_live_map.png",
-      "destination_path": "public/illustrations/admin_empty_live_map.png",
+      "filename": "825292340_1442067637773381_4014928046061796559_n.webp.jpg",
+      "destination_path": "public/illustrations/825292340_1442067637773381_4014928046061796559_n.webp.jpg",
       "used_on_screen": "A-07 Live Bookings Map empty",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: clean map panel with no active visits and muted location pins; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: clean map panel with no active visits and muted location pins; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     },
     {
       "id": "img_05",
-      "filename": "admin_empty_emergency.png",
-      "destination_path": "public/illustrations/admin_empty_emergency.png",
+      "filename": "825292352_1456618346361972_8515985684577730883_n.webp.jpg",
+      "destination_path": "public/illustrations/825292352_1456618346361972_8515985684577730883_n.webp.jpg",
       "used_on_screen": "A-08 Emergency empty",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: resolved emergency console with shield and muted alert state; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: resolved emergency console with shield and muted alert state; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     },
     {
       "id": "img_06",
-      "filename": "admin_empty_disputes.png",
-      "destination_path": "public/illustrations/admin_empty_disputes.png",
+      "filename": "825292358_1107397808882729_586249578290752796_n.webp.jpg",
+      "destination_path": "public/illustrations/825292358_1107397808882729_586249578290752796_n.webp.jpg",
       "used_on_screen": "A-09 Disputes empty",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: neutral dispute resolution folder with balanced scales motif; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: neutral dispute resolution folder with balanced scales motif; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     },
     {
       "id": "img_07",
-      "filename": "admin_empty_reviews.png",
-      "destination_path": "public/illustrations/admin_empty_reviews.png",
+      "filename": "825292450_2355189301920305_4554000583588457059_n.webp.jpg",
+      "destination_path": "public/illustrations/825292450_2355189301920305_4554000583588457059_n.webp.jpg",
       "used_on_screen": "A-10 Reviews empty",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: moderation queue with no reviews awaiting action; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: moderation queue with no reviews awaiting action; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     },
     {
       "id": "img_08",
-      "filename": "admin_empty_payment_accounts.png",
-      "destination_path": "public/illustrations/admin_empty_payment_accounts.png",
+      "filename": "825292506_2554938511674840_1552494363039881171_n.webp.jpg",
+      "destination_path": "public/illustrations/825292506_2554938511674840_1552494363039881171_n.webp.jpg",
       "used_on_screen": "A-11 Payment Accounts empty",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: secure payment account ledger with no rows; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: secure payment account ledger with no rows; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     },
     {
       "id": "img_09",
-      "filename": "admin_empty_verification_payments.png",
-      "destination_path": "public/illustrations/admin_empty_verification_payments.png",
+      "filename": "825292529_1782615279553432_5926135223133417059_n.webp.jpg",
+      "destination_path": "public/illustrations/825292529_1782615279553432_5926135223133417059_n.webp.jpg",
       "used_on_screen": "A-12 Payment Verification empty",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: receipt review queue with magnifier and no pending receipts; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: receipt review queue with magnifier and no pending receipts; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     },
     {
       "id": "img_10",
-      "filename": "admin_empty_payouts.png",
-      "destination_path": "public/illustrations/admin_empty_payouts.png",
+      "filename": "825292567_2141592173898864_3419088448349498739_n.webp.jpg",
+      "destination_path": "public/illustrations/825292567_2141592173898864_3419088448349498739_n.webp.jpg",
       "used_on_screen": "A-13 Payouts empty",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: payout ledger and bank transfer motif with no payouts; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: payout ledger and bank transfer motif with no payouts; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     },
     {
       "id": "img_11",
-      "filename": "admin_cms_content.png",
-      "destination_path": "public/illustrations/admin_cms_content.png",
+      "filename": "825292576_1570624515090205_7744433284575987095_n.webp.jpg",
+      "destination_path": "public/illustrations/825292576_1570624515090205_7744433284575987095_n.webp.jpg",
       "used_on_screen": "A-14 to A-20 CMS modules",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: structured content management illustration with document blocks and edit cursor; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: structured content management illustration with document blocks and edit cursor; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     },
     {
       "id": "img_12",
-      "filename": "admin_role_requirements.png",
-      "destination_path": "public/illustrations/admin_role_requirements.png",
+      "filename": "825292648_1727606039070149_3461887810557961913_n.webp.jpg",
+      "destination_path": "public/illustrations/825292648_1727606039070149_3461887810557961913_n.webp.jpg",
       "used_on_screen": "A-20 Role Requirements",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: professional role matrix with document requirement cards; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: professional role matrix with document requirement cards; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     },
     {
       "id": "img_13",
-      "filename": "admin_analytics_overview.png",
-      "destination_path": "public/illustrations/admin_analytics_overview.png",
+      "filename": "825292719_1450765363602419_100638198318779623_n.webp.jpg",
+      "destination_path": "public/illustrations/825292719_1450765363602419_100638198318779623_n.webp.jpg",
       "used_on_screen": "A-21 Analytics",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: abstract dashboard chart shapes with no numbers or fake data; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: abstract dashboard chart shapes with no numbers or fake data; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     },
     {
       "id": "img_14",
-      "filename": "admin_user_management.png",
-      "destination_path": "public/illustrations/admin_user_management.png",
+      "filename": "825292799_1129491809643098_8685588823420275084_n.webp.jpg",
+      "destination_path": "public/illustrations/825292799_1129491809643098_8685588823420275084_n.webp.jpg",
       "used_on_screen": "A-22 User Management",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: admin user directory with role shield and no faces; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: admin user directory with role shield and no faces; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     },
     {
       "id": "img_15",
-      "filename": "admin_notifications.png",
-      "destination_path": "public/illustrations/admin_notifications.png",
+      "filename": "825292815_1639807720866699_4288750905884568861_n.webp.jpg",
+      "destination_path": "public/illustrations/825292815_1639807720866699_4288750905884568861_n.webp.jpg",
       "used_on_screen": "A-23 Notifications Composer",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: notification composer panel motif with bell and delivery route; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: notification composer panel motif with bell and delivery route; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     },
     {
       "id": "img_16",
-      "filename": "admin_role_superadmin.png",
-      "destination_path": "public/illustrations/admin_role_superadmin.png",
+      "filename": "825292856_1121991216831708_8141405074703765385_n.webp.jpg",
+      "destination_path": "public/illustrations/825292856_1121991216831708_8141405074703765385_n.webp.jpg",
       "used_on_screen": "A-02 Super Admin avatar",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: neutral geometric avatar silhouette, no real person; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: neutral geometric avatar silhouette, no real person; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     },
     {
       "id": "img_17",
-      "filename": "admin_role_verification.png",
-      "destination_path": "public/illustrations/admin_role_verification.png",
+      "filename": "825292928_2333930377418504_9016820441738055185_n.webp.jpg",
+      "destination_path": "public/illustrations/825292928_2333930377418504_9016820441738055185_n.webp.jpg",
       "used_on_screen": "A-03 Verification Admin avatar",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: neutral geometric avatar silhouette with verification shield; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: neutral geometric avatar silhouette with verification shield; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     },
     {
       "id": "img_18",
-      "filename": "admin_role_support.png",
-      "destination_path": "public/illustrations/admin_role_support.png",
+      "filename": "825292955_1075650661752487_4438033149853494122_n.webp.jpg",
+      "destination_path": "public/illustrations/825292955_1075650661752487_4438033149853494122_n.webp.jpg",
       "used_on_screen": "A-09 Support Admin avatar",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: neutral geometric avatar silhouette with support headset motif; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: neutral geometric avatar silhouette with support headset motif; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     },
     {
       "id": "img_19",
-      "filename": "admin_role_finance.png",
-      "destination_path": "public/illustrations/admin_role_finance.png",
+      "filename": "825356448_2237897417061752_683896030933731736_n.webp.jpg",
+      "destination_path": "public/illustrations/825356448_2237897417061752_683896030933731736_n.webp.jpg",
       "used_on_screen": "A-11 Finance Admin avatar",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: neutral geometric avatar silhouette with ledger motif; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: neutral geometric avatar silhouette with ledger motif; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     },
     {
       "id": "img_20",
-      "filename": "admin_role_content.png",
-      "destination_path": "public/illustrations/admin_role_content.png",
+      "filename": "827512730_1414348137473856_6905896433426350174_n.webp.jpg",
+      "destination_path": "public/illustrations/827512730_1414348137473856_6905896433426350174_n.webp.jpg",
       "used_on_screen": "A-14 CMS Admin avatar",
       "background": "transparent",
       "size_hint": "2048x2048",
-      "prompt": "Original HomigoCare admin-panel asset: neutral geometric avatar silhouette with document motif; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background."
+      "prompt": "Original HomigoCare admin-panel asset: neutral geometric avatar silhouette with document motif; professional back-office flat vector style, data-dense dashboard context, neutral emerald #0B5545, slate #334155, orange #F5823A, error red #E53935 only as a tiny status accent, clean geometry, no fake metrics, no fabricated names, no text, transparent background.",
+      "source_archive": "ai_images_admin.zip"
     }
   ]
 }
